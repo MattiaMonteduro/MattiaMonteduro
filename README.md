@@ -2,7 +2,7 @@
 - 👀 I’m interested in Concept Art, Animation and everything about Drag
 - 🌱 I’m currently learning Concept Art
 - 💞️ I’m looking to collaborate on anything interesting really!
-- 📫 How to reach me: just dm me!
+- 📫 How to reach me:
 
 <!---
 MattiaMonteduro/MattiaMonteduro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
